@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584765758057.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1817406B",
+    "lastKnownWriteTime" : 1584766226,
+    "last_content_update" : 1584766226722,
+    "path" : "~/github/chineseinus/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "72,0",
+        "scrollLine" : "60"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
