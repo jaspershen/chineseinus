@@ -20,7 +20,44 @@
       <description>
 
 
-
+&lt;div id=&#34;按照学校&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;按照学校&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;学校&lt;/th&gt;
+&lt;th&gt;群主二维码&lt;/th&gt;
+&lt;th&gt;群二维码&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;test&lt;/td&gt;
+&lt;td&gt;test&lt;/td&gt;
+&lt;td&gt;test&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;按照社区&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;按照社区&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;ZIP code&lt;/th&gt;
+&lt;th&gt;群主二维码&lt;/th&gt;
+&lt;th&gt;群二维码&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;test&lt;/td&gt;
+&lt;td&gt;test&lt;/td&gt;
+&lt;td&gt;test&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
 </description>
     </item>
     

@@ -10,4 +10,15 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
+# 按照学校
 
+|学校|群主二维码|群二维码|
+|----|----------|--------|
+|test|test|test|
+
+
+# 按照社区
+
+|ZIP code|群主二维码|群二维码|
+|----|----------|--------|
+|test|test|test|
