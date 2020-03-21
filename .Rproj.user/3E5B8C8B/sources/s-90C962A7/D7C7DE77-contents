@@ -16,17 +16,17 @@
   
 [[main]]
   name = "州H-M"
-  url = "#posts"
+  url = "h_m/"
   weight = 20
   
 [[main]]
   name = "州N-O"
-  url = "#posts"
+  url = "n_o/"
   weight = 30
   
 [[main]]
   name = "州P-W"
-  url = "#posts"
+  url = "p_w/"
   weight = 40
   
   

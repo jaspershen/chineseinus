@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "D7C7DE77",
-    "lastKnownWriteTime" : 1584767089,
-    "last_content_update" : 1584767089497,
+    "lastKnownWriteTime" : 1584767566,
+    "last_content_update" : 1584767566101,
     "path" : "~/github/chineseinus/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
-        "cursorPosition" : "4,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "29,13",
+        "scrollLine" : "13"
     },
     "read_only" : false,
     "read_only_alternatives" : [
