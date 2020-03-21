@@ -54,7 +54,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-03-20T22:08:25-07:00</lastmod>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
@@ -124,7 +124,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-03-20T22:08:25-07:00</lastmod>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
@@ -149,12 +149,12 @@
   
   <url>
     <loc>/categories/a-z/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
     <loc>/a_g/alabama/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
@@ -164,7 +164,7 @@
   
   <url>
     <loc>/tags/plot/</loc>
-    <lastmod>2020-03-20T22:08:25-07:00</lastmod>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
@@ -174,17 +174,12 @@
   
   <url>
     <loc>/tags/r-markdown/</loc>
-    <lastmod>2020-03-20T22:08:25-07:00</lastmod>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/regression/</loc>
-    <lastmod>2020-03-20T22:08:25-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/a_g/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
@@ -223,15 +218,23 @@
   </url>
   
   <url>
+    <loc>/a_g/</loc>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/h_m/</loc>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
     <loc>/n_o/</loc>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
   <url>
     <loc>/p_w/</loc>
+    <lastmod>2020-03-20T22:22:50-07:00</lastmod>
   </url>
   
 </urlset>
